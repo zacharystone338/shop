@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://github.com/kooshkestani/shop" target="_blank"><img width="128" src="https://cdn.pbrd.co/images/HVhTFEa.png"></a></p>
+<p align="center"><a href="https://github.com/zacharystone338/shop" target="_blank"><img width="128" src="https://cdn.pbrd.co/images/HVhTFEa.png"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/the-control-group/voyager"><img src="https://travis-ci.org/the-control-group/voyager.svg?branch=master" alt="Build Status"></a>
@@ -11,18 +11,18 @@
 </p>
 
 # **E**commerce - Online Shopping Persian -rtl-ltr
-Made with ❤️ by [shop](https://github.com/kooshkestani/shop)
+Made with ❤️ by [shop](https://github.com/zacharystone338/shop)
 
 ![shop Screenshot](public/storage/readme/home.png)
 ![shop Screenshot](public/storage/readme/product.png)
 ![shop Screenshot](public/storage/readme/profile.png)
 ![shop Screenshot](public/storage/readme/voyager.png)
 
-Website & Documentation: https://github.com/kooshkestani/shop
+Website & Documentation: https://github.com/zacharystone338/shop
 
-Video Tutorial Here: https://github.com/kooshkestani/shop
+Video Tutorial Here: https://github.com/zacharystone338/shop
 
-Join our Slack chat: https://github.com/kooshkestani/shop
+Join our Slack chat: https://github.com/zacharystone338/shop
 
 
 <hr>
